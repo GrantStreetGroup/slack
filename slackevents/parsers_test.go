@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/nlopes/slack"
+	"github.com/GrantStreetGroup/slack"
 )
 
 func TestParserOuterCallBackEvent(t *testing.T) {
